@@ -1,0 +1,3 @@
+Hello, writing into a text file
+Second line of the text
+Finishing the file
